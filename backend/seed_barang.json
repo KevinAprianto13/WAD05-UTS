@@ -1,0 +1,156 @@
+[
+  {
+    "id": 1,
+    "nama": "Monitor LED 24 Inchi UltraSharp",
+    "kategori": "Elektronik & IT",
+    "jumlah_stok": 18,
+    "lokasi_gudang": "Gudang A - Rak 01"
+  },
+  {
+    "id": 2,
+    "nama": "Keyboard Mekanikal TKL RGB",
+    "kategori": "Elektronik & IT",
+    "jumlah_stok": 6,
+    "lokasi_gudang": "Gudang A - Rak 02"
+  },
+  {
+    "id": 3,
+    "nama": "Mouse Wireless Ergonomis",
+    "kategori": "Elektronik & IT",
+    "jumlah_stok": 24,
+    "lokasi_gudang": "Gudang A - Rak 03"
+  },
+  {
+    "id": 4,
+    "nama": "Kabel HDMI 2.1 4K 2 Meter",
+    "kategori": "Kabel & Aksesoris",
+    "jumlah_stok": 45,
+    "lokasi_gudang": "Gudang A - Rak 04"
+  },
+  {
+    "id": 5,
+    "nama": "Kabel LAN UTP Cat6 305M",
+    "kategori": "Kabel & Aksesoris",
+    "jumlah_stok": 4,
+    "lokasi_gudang": "Gudang B - Blok C1"
+  },
+  {
+    "id": 6,
+    "nama": "Switch Hub Gigabit 16 Port",
+    "kategori": "Jaringan & Server",
+    "jumlah_stok": 0,
+    "lokasi_gudang": "Gudang B - Blok C2"
+  },
+  {
+    "id": 7,
+    "nama": "Router Wi-Fi 6 Dual Band",
+    "kategori": "Jaringan & Server",
+    "jumlah_stok": 7,
+    "lokasi_gudang": "Gudang B - Blok C3"
+  },
+  {
+    "id": 8,
+    "nama": "Kertas HVS A4 80 GSM (Dus)",
+    "kategori": "Alat Tulis Kantor",
+    "jumlah_stok": 52,
+    "lokasi_gudang": "Gudang C - Rak ATK 1"
+  },
+  {
+    "id": 9,
+    "nama": "Pulpen Gel Hitam 0.5mm (Pak)",
+    "kategori": "Alat Tulis Kantor",
+    "jumlah_stok": 85,
+    "lokasi_gudang": "Gudang C - Rak ATK 2"
+  },
+  {
+    "id": 10,
+    "nama": "Stapler Heavy Duty 100 Lembar",
+    "kategori": "Alat Tulis Kantor",
+    "jumlah_stok": 3,
+    "lokasi_gudang": "Gudang C - Rak ATK 3"
+  },
+  {
+    "id": 11,
+    "nama": "Tinta Printer Hitam EcoTank",
+    "kategori": "Peralatan Cetak",
+    "jumlah_stok": 15,
+    "lokasi_gudang": "Gudang C - Rak ATK 4"
+  },
+  {
+    "id": 12,
+    "nama": "Tinta Printer Cyan EcoTank",
+    "kategori": "Peralatan Cetak",
+    "jumlah_stok": 2,
+    "lokasi_gudang": "Gudang C - Rak ATK 4"
+  },
+  {
+    "id": 13,
+    "nama": "Kursi Kerja Ergonomis Mesh",
+    "kategori": "Perabot & Furniture",
+    "jumlah_stok": 12,
+    "lokasi_gudang": "Gudang Utama - Lantai 2"
+  },
+  {
+    "id": 14,
+    "nama": "Meja Kerja Komputer Kayu Jati",
+    "kategori": "Perabot & Furniture",
+    "jumlah_stok": 0,
+    "lokasi_gudang": "Gudang Utama - Lantai 2"
+  },
+  {
+    "id": 15,
+    "nama": "Filing Cabinet Besi 4 Laci",
+    "kategori": "Perabot & Furniture",
+    "jumlah_stok": 5,
+    "lokasi_gudang": "Gudang Utama - Lantai 2"
+  },
+  {
+    "id": 16,
+    "nama": "Kardus Packing Box Ukuran Sedang",
+    "kategori": "Logistik & Packaging",
+    "jumlah_stok": 150,
+    "lokasi_gudang": "Gudang Barat - Zona 1"
+  },
+  {
+    "id": 17,
+    "nama": "Bubble Wrap Roll 50m Tebal",
+    "kategori": "Logistik & Packaging",
+    "jumlah_stok": 8,
+    "lokasi_gudang": "Gudang Barat - Zona 2"
+  },
+  {
+    "id": 18,
+    "nama": "Lakban Coklat 2 Inchi x 100Y",
+    "kategori": "Logistik & Packaging",
+    "jumlah_stok": 90,
+    "lokasi_gudang": "Gudang Barat - Zona 3"
+  },
+  {
+    "id": 19,
+    "nama": "Hand Pallet Truk Manual 2.5 Ton",
+    "kategori": "Peralatan Gudang",
+    "jumlah_stok": 2,
+    "lokasi_gudang": "Area Loading Dock"
+  },
+  {
+    "id": 20,
+    "nama": "Tangga Aluminium Teleskopik 3.8M",
+    "kategori": "Peralatan Gudang",
+    "jumlah_stok": 4,
+    "lokasi_gudang": "Area Maintenance"
+  },
+  {
+    "id": 21,
+    "nama": "Pemadam Api Ringan (APAR) 3kg",
+    "kategori": "Keselamatan & K3",
+    "jumlah_stok": 10,
+    "lokasi_gudang": "Gudang Utama - Pintu Darurat"
+  },
+  {
+    "id": 22,
+    "nama": "Rompi Safety Reflektor Hijau",
+    "kategori": "Keselamatan & K3",
+    "jumlah_stok": 0,
+    "lokasi_gudang": "Pos Keamanan Gudang"
+  }
+]
