@@ -4,6 +4,7 @@
 ---
 
 ### Identitas Mahasiswa
+- **Nama**: Kevin Aprianto
 - **NIM**: 25120300004
 - **Digit Terakhir**: 4 (GENAP)
 - **Soal UTS**: Soal B — Dashboard Inventaris
