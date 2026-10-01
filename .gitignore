@@ -16,3 +16,7 @@ frontend/yarn-error.log*
 Thumbs.db
 .vscode/
 .idea/
+
+# Local documents / Presentation notes
+*.pdf
+PANDUAN_PRESENTASI.md
